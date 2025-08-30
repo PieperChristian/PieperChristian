@@ -51,7 +51,7 @@ Minha motivação é unir **educação, tecnologia e inovação** para desenvolv
 ## 📂 Projetos em Destaque  
 
 🔴 **HEMOPEL** – Sistema de doação de sangue com foco em acessibilidade e usabilidade.  
-*(Projeto acadêmico/social desenvolvido nas disciplinas de Engenharia de Software I, Desenvolvimento de Interfaces WEB e Programação WEB em equipe com alguns colegas. O repositório do projeto se encontra em: https://github.com/MarlonRamos07/Hemopel.git)*  
+*(Projeto acadêmico/social desenvolvido nas disciplinas de Engenharia de Software I, Desenvolvimento de Interfaces WEB e Programação WEB em equipe com alguns colegas. O repositório do projeto se encontra em: [Projeto HEMOPEL] (https://github.com/MarlonRamos07/Hemopel.git))*  
 
 📌 *Outros projetos em breve…*  
 
